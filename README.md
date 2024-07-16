@@ -61,3 +61,6 @@ Based on the insights gained, the following business recommendations are suggest
 - **Smart Marketing Strategies**
   - Focus on marketing campaigns that leverage identified seasonal patterns to maximize impact and ROI.
   - Use predictive analysis to anticipate trends and adjust marketing strategies as needed.
+
+**DASHBOARD**: https://app.powerbi.com/view?r=eyJrIjoiMDAxNjU4ZjctMzBjZC00NDUyLWE1YjEtZGQxYThjNzFiMjZjIiwidCI6ImFjOGI3Mjk3LTQ0MDMtNGYzMC1iMDQ2LTY0MGU1OTE2NjkzOSJ9
+
