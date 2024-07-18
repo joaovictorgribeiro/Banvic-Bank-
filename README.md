@@ -2,7 +2,7 @@
 
 **Data Analysis Project - BanVic**
 
-This repository contains the data analysis project for BanVic, utilizing Power BI to explore and extract valuable insights from operational and market data. The objective is to provide a strategic view for decision-making within the bank.
+This repository contains the data analysis project for BanVic (Mock Bank), utilizing Power BI to explore and extract valuable insights from operational and market data. The objective is to provide a strategic view for decision-making within the bank.
 
 ## Overview
 
